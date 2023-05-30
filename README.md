@@ -1,5 +1,5 @@
 # WebCrawler
-Web Crawler 
+
 
 This simple web crawler was created in Python using the requests and beautifulsoup modules. 
 
